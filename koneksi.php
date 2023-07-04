@@ -5,8 +5,8 @@ header('Access-Control-Allow-Method: GET, POST, OPTION, DELETE');
 
 function getConnection() {
     $host = 'localhost';
-    $username = 'mhdrmaul_web';
-    $password = 'tYHXONOnweaV';
+    $username = 'mhdrmaul_cool';
+    $password = 'Akusang123-';
     $db = 'mhdrmaul_myperpush';
 
 
